@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDRsystem123", "EDRsystem123\EDRsystem123.csproj", "{BBAC5981-2BB1-4F9B-A383-7A8E7A77383C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAC5981-2BB1-4F9B-A383-7A8E7A77383C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAC5981-2BB1-4F9B-A383-7A8E7A77383C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAC5981-2BB1-4F9B-A383-7A8E7A77383C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAC5981-2BB1-4F9B-A383-7A8E7A77383C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5C8F32-8BFF-4FE9-B9E4-8B9602EEE9EF}
+	EndGlobalSection
+EndGlobal
