@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EDRsystem123/1.0.0": {
+        "runtime": {
+          "EDRsystem123.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EDRsystem123/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

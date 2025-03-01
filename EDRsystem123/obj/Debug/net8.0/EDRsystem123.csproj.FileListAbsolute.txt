@@ -1,0 +1,14 @@
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\bin\Debug\net8.0\EDRsystem123.exe
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\bin\Debug\net8.0\EDRsystem123.deps.json
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\bin\Debug\net8.0\EDRsystem123.runtimeconfig.json
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\bin\Debug\net8.0\EDRsystem123.dll
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\bin\Debug\net8.0\EDRsystem123.pdb
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\EDRsystem123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\EDRsystem123.AssemblyInfoInputs.cache
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\EDRsystem123.AssemblyInfo.cs
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\EDRsystem123.csproj.CoreCompileInputs.cache
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\EDRsystem123.dll
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\refint\EDRsystem123.dll
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\EDRsystem123.pdb
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\EDRsystem123.genruntimeconfig.cache
+C:\Users\localhost\source\repos\EDRsystem123\EDRsystem123\obj\Debug\net8.0\ref\EDRsystem123.dll
